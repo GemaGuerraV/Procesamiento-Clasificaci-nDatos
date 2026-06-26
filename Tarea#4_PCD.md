@@ -5,6 +5,7 @@
 
 ## 1. Introducción
 El objetivo de esta práctica es desarrollar un pipeline de visión computacional para la identificación de estructuras circulares y sus respectivos centros de masa en imágenes del mundo real (en este caso, una colección de frutas cítricas y bayas). La detección se basa en la **Transformada de Hough para Círculos**, precedida por etapas esenciales de análisis frecuencial y filtrado espacial para mitigar el ruido de la textura natural.
+Para consultar el notebook da click [AQUÍ](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea4_PCD.ipynb)
 
 ---
 
