@@ -1,5 +1,4 @@
 # Tarea #4: Detección de Centros en Objetos Circulares
-
 ---
 
 ## 1. Introducción
