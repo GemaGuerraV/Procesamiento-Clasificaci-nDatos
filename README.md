@@ -1,4 +1,4 @@
-# Procesamiento y Calsificación de Datos
+# Procesamiento y Clasificación de Datos
 
 - [Tarea #1](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea%231_PCD.md)
 
