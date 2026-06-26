@@ -1,5 +1,4 @@
 # Tarea #4: Detección de Centros en Objetos Circulares
-**Materia:** Procesamiento y Clasificación de Datos
 
 ---
 
