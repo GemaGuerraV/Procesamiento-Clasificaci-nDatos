@@ -12,6 +12,6 @@ Se elige un método de vectorización adecuado para el conjunto de datos de Yelp
 
 Se utiliza Random Forest para clasificar texto, pero se usa Diseño de Experimentos (DOE) como herramienta para auditar, comparar y demostrar cuál es la calibración óptima de ese modelo. 
 
-- [Tarea #4]([https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea4_PCD.ipynb](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea%234_PCD.md))
+- [Tarea #4](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea%234_PCD.md)
 
 Se encuentran centros de objetos circulares de una imagen y se analiza por medio de histogramas.
