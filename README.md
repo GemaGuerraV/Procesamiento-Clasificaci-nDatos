@@ -10,7 +10,7 @@ Se elige un método de vectorización adecuado para el conjunto de datos de Yelp
 
 - [Tarea #3](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea3_PCD.ipynb)
 
-Se utiliza Random Forest para clasificar texto, pero se usa Diseño de Experimentos (DOE) como herramienta para auditar, comparar y demostrar cuál es la calibración óptima de ese modelo. 
+Se utiliza Random Forest para clasificar texto, pero se usa Diseño de Experimentos (DOE) como herramienta para auditar, comparar y demostrar cuál es la calibración óptima de ese modelo. Para ver reporte dar click [AQUÍ](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea%233_PCD.md)
 
 - [Tarea #4](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea%234_PCD.md)
 
