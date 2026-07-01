@@ -1,6 +1,6 @@
 # Análisis Estadístico y Estilométrico Comparativo en la Obra de Edgar Allan Poe
 
-Este repositorio contiene un estudio cuantitativo basado en Procesamiento de Lenguaje Natural (PLN) y estilometría computacional sobre dos de las obras más emblemáticas del autor estadounidense Edgar Allan Poe: el cuento gótico **"The Masque of the Red Death" (1842)** y el poema lírico **"The Raven" (1845)**.
+Este repositorio contiene un estudio cuantitativo basado en Procesamiento de Lenguaje Natural (PLN) y estilometría computacional sobre dos de las obras más emblemáticas del autor estadounidense Edgar Allan Poe: el cuento gótico **"The Masque of the Red Death" (1842)** y el poema lírico **"The Raven" (1845)**. Para observar el código utilizado favor de dar click [AQUÍ](https://colab.research.google.com/drive/1EG91s6MAZe-Axuc0zxo1cQPkiU9fXkFf?usp=sharing).
 
 ---
 
