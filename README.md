@@ -15,3 +15,7 @@ Se utiliza Random Forest para clasificar texto, pero se usa Diseño de Experimen
 - [Tarea #4](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea%234_PCD.md)
 
 Se encuentran centros de objetos circulares de una imagen y se analiza por medio de histogramas.
+
+- [Tarea #5](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea5_PCD.ipynb)
+
+Se realiza una aplicación de redes neuronales convolucionales para clasificar, segmentar y detectar objetos en imágenes. Para ver reporte dar click [AQUÍ](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea%235_PCD.md)
