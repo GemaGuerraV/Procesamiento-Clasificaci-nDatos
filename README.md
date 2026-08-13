@@ -19,3 +19,7 @@ Se encuentran centros de objetos circulares de una imagen y se analiza por medio
 - [Tarea #5](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea5_PCD.ipynb)
 
 Se realiza una aplicación de redes neuronales convolucionales para clasificar, segmentar y detectar objetos en imágenes. Para ver reporte dar click [AQUÍ](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea%235_PCD.md)
+
+- [Tarea #6&7](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea6&7_PCD.ipynb)
+
+Se realiza la implementación de procesamiento y clasificación de audios. Para ver reporte dar click [AQUÍ](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea%236%267_PCD.md)
