@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Introducción y Objetivos
+## 1. Introducción
 
 El procesamiento de señales acústicas no estacionarias presenta retos significativos al utilizar transformadas tradicionales como la Transformada Rápida de Fourier (FFT), la cual pierde la localización temporal de los eventos de alta frecuencia. En este proyecto, se implementa un pipeline de procesamiento y clasificación de audios ambientales perteneciente al dataset **ESC-50** (*Environmental Sound Classification*) utilizando la **Transformada de Ondícula Discreta (DWT)** para el análisis multirresolución (MRA) y un modelo de aprendizaje automático (*Random Forest*).
 
