@@ -23,3 +23,7 @@ Se realiza una aplicación de redes neuronales convolucionales para clasificar, 
 - [Tarea #6&7](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea6&7_PCD.ipynb)
 
 Se realiza la implementación de procesamiento y clasificación de audios. Para ver reporte dar click [AQUÍ](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/Tarea%236%267_PCD.md)
+
+- [PIA](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/PIA_PCD_Gema.ipynb)
+
+Proyecto Integrador de Aprendizaje utilizando un modelo de clasificación de texto híbrido que predice el nivel de riesgo de notificaciones de seguridad alimentaria del sistema RASFF. Para ver reporte dar click [AQUÍ](https://github.com/GemaGuerraV/Procesamiento-Clasificaci-nDatos/blob/main/PIA.md)
